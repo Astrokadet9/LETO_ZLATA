@@ -1,0 +1,33 @@
+h1{
+    text-align: center ;
+    color: #ffa12e;
+}
+.vbn{
+    color: #ecff1c;
+}
+zima{
+   background-color: #ccf600;
+    
+}
+.leto{
+     text-align: center ;
+    color:#15e81c;
+}
+table{
+    text-align: center;
+    border: black 2px solid;
+    border-collapse: collapse;
+}
+
+td{
+    border: black 2px solid;
+    padding: 5px;
+}
+.park{
+    width: 350px;
+}
+p{
+    font-size: 20px;
+    color: #008500;
+    text-align: center;
+}
